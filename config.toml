@@ -1,0 +1,22 @@
+baseurl = "http://dariensolo.com/"
+languageCode = "en-gb"
+title = "Darien"
+theme = "hyde"
+copyright = "Elsa Hammond"
+
+[Author]
+	name = "Elsa Hammond"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = "solo ocean rowing boat"
+	twitter = "https://twitter.com/elsahammond"
+	
