@@ -3,12 +3,11 @@
 
 {{ template "theme/chrome/sidebar.html" . }}
 
-  <div class="content container">
-  <div class="post">
-    <h1 class="post-title">{{ .Title }}</h1>
-    {{ .Content }}
-  </div>
-  </div>
+start homepage
+{{ range .Data.Pages }}
+        {{if eq .RelPermalink "/index.html" }} {{.Content}} {{end}}
+{{ end }}
+end homepage
 
   </body>
 </html>
