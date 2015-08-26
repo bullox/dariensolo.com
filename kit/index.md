@@ -15,4 +15,4 @@ What you get when you charter Darien:
 * Jetboil gimbal for tasty hot cuisine
 * Xcell Ocean oars pair
 * Excessive solar -- no running out of power in cloudy weather!
-* Massive list of included kit –- ask for more details
+* Massive list of included kit -- ask for more details
