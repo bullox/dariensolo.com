@@ -8,3 +8,5 @@ nav: 1
 Darien is a solo ocean rowing boat available for charter or sale.
 
 ![Darien](https://farm3.staticflickr.com/2938/14149971151_53deef30f3_z_d.jpg)
+
+[LOADS of pics on Flickr - click here](https://www.flickr.com/photos/elsahammond/)
