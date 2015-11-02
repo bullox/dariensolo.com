@@ -8,6 +8,10 @@ nav: 2
 
 Darien is a solo ocean rowing boat, available by charter with a large list of additional kit. We think that she is the best around – top-notch design and construction, tried-and-tested design updated with some fantastic and convenient features. She's pretty and practical and is looking for rowers to treat her right and take her places.
 
+# Name
+
+Why Darien? [Check out Elsa's blog post on the name](http://elsahammond.com/2014/07/26/day-47-darien/).
+
 # Design
 
 Designed by world-renowned [Phil Morrison](http://en.wikipedia.org/wiki/Phil_Morrison_%28yachts%29), with numerous innovative features to enable a solo rower to work safely and effectively.
