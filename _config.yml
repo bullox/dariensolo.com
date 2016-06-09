@@ -10,10 +10,10 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Darien
-tagline: solo ocean rowing boat
+tagline: ocean rowing boat for sale or charter
 author :
   name : Darien Charters
-  email : hello@dariensolo.com
+  email : hello@rowdarien.com
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -23,7 +23,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://dariensolo.com
+production_url : http://rowdarien.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
